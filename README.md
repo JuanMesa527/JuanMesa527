@@ -46,16 +46,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juanmesa527&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanmesa527&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)  
-- ✉️ Email: your.email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-mesa112003/)  
+- ✉️ Email: mesacalderon@gmail.com 
 
 ---
-⭐️ From [Juan](https://github.com/yourusername)
+⭐️ From [Juan](https://github.com/juanmesa527)
 
